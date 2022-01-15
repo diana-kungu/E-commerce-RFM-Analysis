@@ -3,18 +3,21 @@
 ### Project Objectives/Deliverables
 
 The goals of this project are as follows: <br>
-&nbsp;&nbsp;&nbsp; **Data cleaning and summary statistics**<br>
+
+ #### &nbsp;&nbsp;&nbsp;&nbsp;A. Data cleaning and summary statistics<br>
+
 Create a tableau dashboard to monitor the following metrices:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    1. Revenue by month, region and product category.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    2. Converstion rates for the whole store and by each product category.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    3. Identify the trend of purchases by time and day of week.<br>
 
-&nbsp;&nbsp;&nbsp; **Customer Progressin in the Sales Funnel**<br>
+#### &nbsp;&nbsp;&nbsp;&nbsp;B. Customer Progressin in the Sales Funnel<br>
 Conduct a funnel analysis to identify bottleneck in the sales journey.<br>
-&nbsp;&nbsp;&nbsp; **Classify Zipcodes in terms of economic status** <br>
 
+#### &nbsp;&nbsp;&nbsp;&nbsp;C. Classify Zipcodes in terms of economic status <br>
 Using US Census ZCTAs data apply K-means classification to group the zipcodes.<br>
-&nbsp;&nbsp;&nbsp; **Customer Segmentation** <br>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;D. Customer Segmentation <br>
 
 
 <table>
