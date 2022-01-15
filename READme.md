@@ -10,6 +10,7 @@ Create a tableau dashboard to monitor the following metrices:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    1. Revenue by month, region and product category.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    2. Converstion rates for the whole store and by each product category.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    3. Identify the trend of purchases by time and day of week.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    4. Average checkout duration. 
 see the dashboard [here](https://public.tableau.com/app/profile/dianakungu/viz/Aws-ExecutiveDashboard/Overview)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;B. Customer Progress in in the Sales Funnel<br>
