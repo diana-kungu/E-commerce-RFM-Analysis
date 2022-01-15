@@ -2,14 +2,27 @@
 
 ### Project Objectives/Deliverables
 
-|**Methods Used**|
-|---|Data Visualization <br> Machine Learning|
 
-|**Techologies**|
-|---|
-|`pandas`<br> `Python`|
+
+
+<table>
+<tr>
+<th>Methods Used </th>
+<th>Techologies </th>
+</tr>
+<tr>
+<td>
+Data Visualization <br> Machine Learning-Kmeans Classification
+
+</td>
+<td>
+pandas<br> Python
+
+</td>
+</tr>
+</table>
 
 ## Project Description
-Data Source: [Kaggle](https://www.kaggle.com/mobasshir/awssampleretaildemostore) <br>
-or find raw data store [here](https://github.com/diana-kungu/E-commerce-Store-Analysis/tree/main/Input) in this repository
+Data Source: [Kaggle](https://www.kaggle.com/mobasshir/awssampleretaildemostore) or find raw data stored [here](https://github.com/diana-kungu/E-commerce-Store-Analysis/tree/main/Input) in this repository.
+
 
